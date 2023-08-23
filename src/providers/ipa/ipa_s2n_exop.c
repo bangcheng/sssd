@@ -128,7 +128,7 @@ static const char *ipa_s2n_reqtype2str(enum request_types request_type)
     default:
         break;
     }
-
+ 
     return "Unknown request type";
 }
 
